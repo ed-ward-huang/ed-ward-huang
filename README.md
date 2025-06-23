@@ -7,13 +7,13 @@
 
 👨‍💻 All of my projects are available at [https://edward-huang.netlify.app/](https://edward-huang.netlify.app/)
 
-- 💬 Ask me about my **University and Work Experience**
+💬 Ask me about my **University and Work Experience**
 
-- 📫 How to reach me: **e224huan@uwaterloo.ca**
+📫 How to reach me: **e224huan@uwaterloo.ca**
 
-- 📄 Get my resume: [https://edward-huang-resume.tiiny.site/](https://edward-huang-resume.tiiny.site/)
+📄 Get my resume: [https://edward-huang-resume.tiiny.site/](https://edward-huang-resume.tiiny.site/)
 
-- ⚡ Interests: **I'm a huge foodie and love trying out new cuisines. Tell me about your favourite childhood dishes!**
+⚡ Interests: **I'm a huge foodie and love trying out new cuisines. Tell me about your favourite childhood dishes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
