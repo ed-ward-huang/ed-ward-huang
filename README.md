@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Edward Huang</h1>
-<h3 align="center">I'm a student .....</h3>
+<h1 align="center">About Me</h1>
+<h3 align="center">Hi! I'm Edward, a student majoring in Computer Science and Finance at the University of Waterloo. I love creating meaningful user focused projects, feel free to reach out!</h3>
 
-- 🔭 I’m currently working on **A Full-Stack E-commerce Project**
+🔭 I’m currently working on **A Full-Stack E-commerce Project**
 
-- 🌱 I’m currently learning **more about Full-Stack Development, specifically projects with AWS**
+🌱 I’m currently learning more about **Full-Stack Development, specifically projects with AWS**
 
-- 👨‍💻 All of my projects are available at [https://edward-huang.netlify.app/](https://edward-huang.netlify.app/)
+👨‍💻 All of my projects are available at [https://edward-huang.netlify.app/](https://edward-huang.netlify.app/)
 
-- 💬 Ask me about **my University and Work Experience**
+- 💬 Ask me about my **University and Work Experience**
 
-- 📫 How to reach me **e224huan@uwaterloo.ca**
+- 📫 How to reach me: **e224huan@uwaterloo.ca**
 
-- 📄 Know about my experiences [https://edward-huang-resume.tiiny.site/](https://edward-huang-resume.tiiny.site/)
+- 📄 Get my resume: [https://edward-huang-resume.tiiny.site/](https://edward-huang-resume.tiiny.site/)
 
 - ⚡ Interests: **I'm a huge foodie and love trying out new cuisines. Tell me about your favourite childhood dishes!**
 
