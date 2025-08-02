@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 <h3 align="center">Hi! I'm Edward, a student majoring in Computer Science and Finance at the University of Waterloo. I love creating meaningful user focused projects, feel free to reach out!</h3>
 
-🔭 I’m currently working on **A Full-Stack E-commerce Project**
+🔭 I’m currently working on **A Hate Speech Detection App**
 
 🌱 I’m currently learning more about **Full-Stack Development, specifically projects with AWS Frameworks**
 
