@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 <h3 align="center">Hi! I'm Edward, a student majoring in Computer Science and Finance at the University of Waterloo. I love creating meaningful user focused projects, feel free to reach out!</h3>
 
-🔭 I’m currently working on **A Hate Speech Detection App**
+🔭 Check out my recent project, a Hate Speech Detection App https://github.com/ed-ward-huang/reddit-social-media-analyzer
 
 🌱 I’m currently learning more about **Full-Stack Development, specifically projects with AWS Frameworks**
 
@@ -11,7 +11,6 @@
 
 📫 How to reach me: **e224huan@uwaterloo.ca**
 
-📄 Get my resume: [https://edward-huang-resume.tiiny.site/](https://edward-huang-resume.tiiny.site/)
 
 ⚡ Interests: **I'm a huge foodie and love trying out new cuisines. Tell me about your favourite childhood dishes!**
 
