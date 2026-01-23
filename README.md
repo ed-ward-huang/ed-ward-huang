@@ -1,22 +1,13 @@
 <h1 align="center">About Me</h1>
-<h3 align="center">Hi! I'm Edward, a student majoring in Computer Science and Finance at the University of Waterloo. I love creating meaningful user focused projects, feel free to reach out!</h3>
+<h3 align="center">Hi! I'm Edward, a student dual majoring in computer science and finance at the University of Waterloo. I love creating meaningful user focused projects, feel free to reach out!</h3>
 
 🔭 Check out my recent project, a Hate Speech Detection App https://github.com/ed-ward-huang/reddit-social-media-analyzer
 
-🌱 I’m currently learning more about **Full-Stack Development, specifically projects with AWS Frameworks**
-
-👨‍💻 All of my projects are available at [https://edward-huang.netlify.app/](https://edward-huang.netlify.app/)
-
-💬 Ask me about my **University and Work Experience**
-
-📫 How to reach me: **e224huan@uwaterloo.ca**
+👨‍💻 my portfolio site [https://edward-huang.netlify.app/](https://edward-huang.netlify.app/)
 
 
 ⚡ Interests: **I'm a huge foodie and love trying out new cuisines. Tell me about your favourite childhood dishes!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
