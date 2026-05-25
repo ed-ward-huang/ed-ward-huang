@@ -1,9 +1,10 @@
-<h1 align="center">About Me</h1>
-<h3 align="center">Hi! I'm Edward, a student dual majoring in computer science and finance at the University of Waterloo. I love creating meaningful user focused projects, feel free to reach out!</h3>
+<h3 align="center">Hi! I'm Edward, a student at the University of Waterloo dual majoring in computer science and finance. I love creating meaningful user focused projects, feel free to reach out!</h3>
 
-🔭 Check out my recent project, a Hate Speech Detection App https://github.com/ed-ward-huang/reddit-social-media-analyzer
+My most recent proejct: Dynamo Inspired Distributed Key Value Store Project: [https://github.com/ed-ward-huang/dynamo-lite-kv-store]
 
-👨‍💻 my portfolio site [https://edward-huang.netlify.app/](https://edward-huang.netlify.app/)
+My Portfolio Site: [https://ehuang.netlify.app/]
+
+My Leetcode Solutions: [https://github.com/ed-ward-huang/Leetcode-Solutions]
 
 
 ⚡ Interests: **I'm a huge foodie and love trying out new cuisines. Tell me about your favourite childhood dishes!**
