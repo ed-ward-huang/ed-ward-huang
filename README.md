@@ -7,7 +7,7 @@ My Portfolio Site: [https://ehuang.netlify.app/]
 My Leetcode Solutions: [https://github.com/ed-ward-huang/Leetcode-Solutions]
 
 
-⚡ Interests: **I'm a huge foodie and love trying out new cuisines. Tell me about your favourite childhood dishes!**
+Interests: I love trying new cuisines, so tell me about your favorite dishes!
 
 
 <h3 align="left">Languages:</h3>
