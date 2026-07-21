@@ -2,10 +2,10 @@
 
 ### About Me
 - 🎓 CS student at the University of Waterloo
-- 💼 swe @ Super.com, prev @ Nokia
+- 💼 swe @ Bloomberg, prev @ Super.com, Nokia
 
 I’m a Computer Science student at the University of Waterloo focused on backend, infrastructure, and full-stack engineering. 
-I’m have previously interned at Super.com, Nokia, Tight Studio, and Daitaflow. Across these roles, I’ve built production systems for rewards personalization, network telemetry, video ingestion, and enterprise cost forecasting.
+Currently, I am interning at Bloomberg and have previously interned at Super.com, Nokia, Tight Studio, and Daitaflow. Across these roles, I’ve built production systems for rewards personalization, network telemetry, video ingestion, and enterprise cost forecasting.
 
 ---
 <h3 align="left">Connect with me:</h3>
